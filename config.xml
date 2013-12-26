@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.phonegap.example"
+        versionCode = "10" 
+        version     = "1.0.0" >
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>Timer Build V1</name>
+
+    <description>
+        Walkthrough of create process on Phonegap. 
+    </description>
+
+    <author href="http://nviews.com" email="jacques@nviews.com">
+        Jacques
+    </author>
+
+</widget>
